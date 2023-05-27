@@ -1,0 +1,1 @@
+Airline Reservation System is one the modifications that were carried out in the Passenger Service System so that the working and availability of Service area can be broadened. This is basically an interface of Global distribution System to carry out reservations on the desired airline from any place.
